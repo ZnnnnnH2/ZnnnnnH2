@@ -8,7 +8,7 @@ I'm a passionate developer with a keen interest in open-source projects and inno
 
 ## Skills
 
-- **Languages:** Python, JavaScript, TypeScript, C++
+- **Languages:** Python, JavaScript, TypeScript, C++, kotlin
 - **Frameworks:** React, Node.js, Django, Flask
 - **Tools:** Git, Docker, Kubernetes, Jenkins
 - **Databases:** MySQL, PostgreSQL, MongoDB
