@@ -9,8 +9,7 @@ I'm a passionate developer with a keen interest in open-source projects and inno
 ## Skills
 
 - **Languages:** Python, JavaScript, TypeScript, C++, kotlin
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## Projects
@@ -19,13 +18,6 @@ Here are some of my notable projects:
 
 ### Project 1: Awesome Project
 - **Description:** A web application that helps users manage their tasks efficiently.
-- **Technologies:** React, Node.js, MongoDB
-- **Repository:** [Awesome Project Repo](https://github.com/ZnnnnnH2/awesome-project)
-
-### Project 2: Cool Library
-- **Description:** A Python library that simplifies data analysis and visualization.
-- **Technologies:** Python, Pandas, Matplotlib
-- **Repository:** [Cool Library Repo](https://github.com/ZnnnnnH2/cool-library)
 
 ## GitHub Stats
 
@@ -35,8 +27,7 @@ Here are some of my notable projects:
 
 Feel free to reach out to me via:
 
-- **Email:** ZnnnnnH2@example.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ZnnnnnH2)
+- **Email:** ZnnnnnH2@outlook.com
 
 Looking forward to connecting with you!
 
