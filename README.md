@@ -12,13 +12,6 @@ I'm a passionate developer with a keen interest in open-source projects and inno
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
-## Projects
-
-Here are some of my notable projects:
-
-### Project 1: Awesome Project
-- **Description:** A web application that helps users manage their tasks efficiently.
-
 ## GitHub Stats
 
 ![ZnnnnnH2's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZnnnnnH2&show_icons=true&theme=radical)
