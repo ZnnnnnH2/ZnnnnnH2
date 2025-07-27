@@ -6,6 +6,10 @@ Welcome to my GitHub profile!
 
 I'm a passionate developer with a keen interest in open-source projects and innovative technologies. I love to explore new programming languages and frameworks, and I'm always excited to collaborate on interesting projects.
 
+## Website
+
+znnnnnh2.icu
+
 ## Skills
 
 - **Languages:** Python, JavaScript, TypeScript, C++, kotlin
