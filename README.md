@@ -12,9 +12,9 @@ I'm a passionate developer with a keen interest in open-source projects and inno
 
 ## Skills
 
-- **Languages:** Python, JavaScript, TypeScript, C++, kotlin
+- **Languages:** Python, C++, kotlin
 - **Tools:** Git, Docker
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL
 
 ## GitHub Stats
 
